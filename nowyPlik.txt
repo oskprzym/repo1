@@ -1,2 +1,3 @@
 Tu jest tresc nowego pliku
 dodatkowa tresc
+Trzecia tresc
